@@ -38,6 +38,6 @@ console.log(c)
 // To get a random integer between zero and ten
 
 var d = Math.random(); // Fetches a random decimal
-var e = d*10; // Multiply by 10 to make the decimal come in between 0 and 10
+var e = d * 10; // Multiply by 10 to make the decimal come in between 0 and 10
 var f = Math.ceil(e); // Rounding up the decimal to an intenger
 console.log(f) // Printing out the the result
