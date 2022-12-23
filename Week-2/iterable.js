@@ -47,4 +47,4 @@ console.log(h.toUpperCase()); // Convert all letters into uppercase letter
 console.log(h.toLowerCase()); // Converts all letters to uppercase Char
 
 var k = "This is a string with space between the words";
-console.log(k.split(" ")); // Returns an array of elements splited from the string with the condition "space" between them
+console.log(k.split(" ")); // Returns an array of elements splited from the string with the condition "space" between them 
