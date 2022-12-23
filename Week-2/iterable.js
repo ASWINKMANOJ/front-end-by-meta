@@ -38,3 +38,13 @@ console.log(h + i);
 var g = ["jo", "lol"]
 
 console.log(veggies + g) // appends the elements of g array into veggies array
+
+console.log(h.charAt(1)); // Logs out the char at index 1
+console.log(h.concat(i)); // Combined string of h and i
+console.log(h.indexOf("l")); // Returns the index of first occurance of the given char
+console.log(h.lastIndexOf("l")) // Returns the index of last occurance of the given char
+console.log(h.toUpperCase()); // Convert all letters into uppercase letter
+console.log(h.toLowerCase()); // Converts all letters to uppercase Char
+
+var k = "This is a string with space between the words";
+console.log(k.split(" ")); // Returns an array of elements splited from the string with the condition "space" between them
