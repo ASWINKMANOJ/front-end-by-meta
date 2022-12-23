@@ -13,10 +13,10 @@ console.log(test);
 var test = typeof (false);
 console.log(test);
 
-var test = typeof(1 < 2);
+var test = typeof (1 < 2);
 console.log(test);
 
-var test = typeof ([1, 2, 3]);
+var test = typeof (['1', '2', '3']);
 console.log(test);
 
 var test = typeof ({ firstProperty: 1 });
